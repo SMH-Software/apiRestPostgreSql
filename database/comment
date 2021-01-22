@@ -1,0 +1,4 @@
+Connection = psql -U postgres
+display all databases ==> \l
+access a specify database ==> \c nameDatabase
+display all tables a specify database ==> \dt
